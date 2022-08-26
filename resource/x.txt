@@ -1,0 +1,33 @@
+GM
+I am Mayuri Dangare from Maharashtra, India
+having around 3 years of experience in IT 
+I have worked on domains like retail, automative and healthcare
+I hold experience on technologies like python, sql, pyspark, postgresql, hadoop, django,C
+I would like to talk about a project where I made a major contrbution
+
+Client was in property lease,  meter management for several utilities 
+so we have developed a soultion to provide end to end service to addess his requirements
+
+Data was inserted from MySQL to hdfs using sqoop,
+ it was processed in an on-premises cluster with a pyspark job, and data was stored in the hive table for
+ downstream processing and dashboarding
+ Our key datasources were CSV files, mysql database
+ For version control git was used and unit testing was done with pytest
+ As a part of this project, I was involved in ETL pipeline, coding (spark transformations , joins, actions and all)
+ Debugging was taken care during the creation of Data Frames and performing transformations
+ And for end to end monitoring we have used log files and spark UI
+ 
+ Right now working on the innersource project data-comparator
+ In big data engineering we migrate data from existing system to new system.
+and not sure whether data is migrated successfully or not ..
+to address this problem we are desiging a generic tool which can compare the existing dataset and migrated dataset
+In data-comaprator we are using pyspark, postgresql ..
+
+
+Get into our tech stack
+
+contrbution
+
+project summary
+
+	
