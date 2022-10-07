@@ -1,0 +1,3 @@
+Akshay: Spark is a data processing engine that is very fast because of its in-memory processing. The current version of spark is 3.0.0. This version of spark supports the delta lake feature which helps the CDC concept.
+Ajay: Apache Sgit park is a multi-language engine for executing data engineering.
+Akshay: Spark is a Big Data Engine.
